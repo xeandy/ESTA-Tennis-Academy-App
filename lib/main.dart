@@ -28,8 +28,8 @@ void main() async {
   await Firebase.initializeApp();
   configureInjection(Environment.prod);
   Stripe.publishableKey =
-      'pk_live_51JK7vIFsiNbNnQfMWa9cGg88hpCeSrGAy57bpLqALjakdphhfW5S8IlfhaxOqY5p1HrSPD6Ix74yYQyPuu77nnvG00OfCukNNz';
-  Stripe.merchantIdentifier = 'merchant.com.estaflorida.academy';
+      '';
+  Stripe.merchantIdentifier = '';
   runApp(MyApp());
 }
 
