@@ -1,0 +1,3 @@
+const String aboutUs =
+    '''  ESTA Incorporated founded in 2010 in the beautiful city of Orlando (Florida). Main function of the company was tennis school. Many local kids and adults came here to start learning tennis at recreational level. ESTA organized their first small international tennis camp in 2013. Since then, ESTA started to focus on big events as tennis camps and fitness tours.
+In 2014, ESTA accepted more than 70 kids from around the world. Today our international Camp is open to professional tennis players and kids, who never played tennis before. We have unique approach to every individual and confidence to reach their goals.''';
